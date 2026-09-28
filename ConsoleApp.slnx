@@ -2,6 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/Uebung_1_1/Uebung_1_1.csproj" />
     <Project Path="src/Uebung_1_2/Uebung_1_2.csproj" />
+    <Project Path="src/Uebung_1_3/Uebung_1_3.csproj" />
   </Folder>
   <Project Path="src/HelloWorld/HelloWorld.csproj" />
 </Solution>
