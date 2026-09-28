@@ -9,3 +9,6 @@ Im Terminal:
 ```
 
 Verwende die Übungsbezeichnung als Projektnamen.
+
+Fachhomepage:
+https://www.franzmatejka.at/htl/doc/_SJ_2026/3AHITS_SEW.html
